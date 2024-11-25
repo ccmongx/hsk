@@ -1,0 +1,8 @@
+H:\fithou\HSK\HSK308\HSK308\obj\Debug\HSK308.csproj.AssemblyReference.cache
+H:\fithou\HSK\HSK308\HSK308\obj\Debug\HSK308.csproj.SuggestedBindingRedirects.cache
+H:\fithou\HSK\HSK308\HSK308\obj\Debug\HSK308.csproj.CoreCompileInputs.cache
+H:\fithou\HSK\HSK308\HSK308\bin\Debug\HSK308.exe.config
+H:\fithou\HSK\HSK308\HSK308\bin\Debug\HSK308.exe
+H:\fithou\HSK\HSK308\HSK308\bin\Debug\HSK308.pdb
+H:\fithou\HSK\HSK308\HSK308\obj\Debug\HSK308.exe
+H:\fithou\HSK\HSK308\HSK308\obj\Debug\HSK308.pdb

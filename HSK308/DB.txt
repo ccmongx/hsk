@@ -1,0 +1,7 @@
+CREATE TABLE [dbo].[tblRap](
+	[sMaRap] [nchar](10) NOT NULL,
+	[sTenRap] [nchar](50) NULL,
+	[sDiaChi] [nchar](50) NULL,
+	[sSDT] [nchar](10) NULL,
+	[iSoPhong] [int] NULL,
+	[iTongSoGhe] [int] NULL)

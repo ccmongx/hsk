@@ -1,0 +1,15 @@
+H:\fithou\HSK\btlvs\BTH_QLCHDT\BTH_QLCHDT\obj\Debug\BTH_QLCHDT.csproj.AssemblyReference.cache
+H:\fithou\HSK\btlvs\BTH_QLCHDT\BTH_QLCHDT\obj\Debug\BTH_QLCHDT.csproj.SuggestedBindingRedirects.cache
+H:\fithou\HSK\btlvs\BTH_QLCHDT\BTH_QLCHDT\obj\Debug\BTH_QLCHDT.Form1.resources
+H:\fithou\HSK\btlvs\BTH_QLCHDT\BTH_QLCHDT\obj\Debug\BTH_QLCHDT.Properties.Resources.resources
+H:\fithou\HSK\btlvs\BTH_QLCHDT\BTH_QLCHDT\obj\Debug\BTH_QLCHDT.QLSanPham.resources
+H:\fithou\HSK\btlvs\BTH_QLCHDT\BTH_QLCHDT\obj\Debug\BTH_QLCHDT.csproj.GenerateResource.cache
+H:\fithou\HSK\btlvs\BTH_QLCHDT\BTH_QLCHDT\obj\Debug\BTH_QLCHDT.csproj.CoreCompileInputs.cache
+H:\fithou\HSK\btlvs\BTH_QLCHDT\BTH_QLCHDT\bin\Debug\BTH_QLCHDT.exe.config
+H:\fithou\HSK\btlvs\BTH_QLCHDT\BTH_QLCHDT\bin\Debug\BTH_QLCHDT.exe
+H:\fithou\HSK\btlvs\BTH_QLCHDT\BTH_QLCHDT\bin\Debug\BTH_QLCHDT.pdb
+H:\fithou\HSK\btlvs\BTH_QLCHDT\BTH_QLCHDT\obj\Debug\BTH_QLCHDT.exe
+H:\fithou\HSK\btlvs\BTH_QLCHDT\BTH_QLCHDT\obj\Debug\BTH_QLCHDT.pdb
+H:\fithou\HSK\btlvs\BTH_QLCHDT\BTH_QLCHDT\obj\Debug\BTH_QLCHDT.QLKhachHang.resources
+H:\fithou\HSK\btlvs\BTH_QLCHDT\BTH_QLCHDT\obj\Debug\BTH_QLCHDT.QLHoaDon.resources
+H:\fithou\HSK\btlvs\BTH_QLCHDT\BTH_QLCHDT\obj\Debug\BTH_QLCHDT.QLNhanVien.resources

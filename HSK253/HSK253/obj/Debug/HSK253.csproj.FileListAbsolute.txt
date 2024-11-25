@@ -1,0 +1,11 @@
+H:\fithou\HSK\HSK253\HSK253\obj\Debug\HSK253.Form1.resources
+H:\fithou\HSK\HSK253\HSK253\obj\Debug\HSK253.Form2.resources
+H:\fithou\HSK\HSK253\HSK253\obj\Debug\HSK253.Properties.Resources.resources
+H:\fithou\HSK\HSK253\HSK253\obj\Debug\HSK253.csproj.GenerateResource.cache
+H:\fithou\HSK\HSK253\HSK253\obj\Debug\HSK253.csproj.CoreCompileInputs.cache
+H:\fithou\HSK\HSK253\HSK253\bin\Debug\HSK253.exe.config
+H:\fithou\HSK\HSK253\HSK253\bin\Debug\HSK253.exe
+H:\fithou\HSK\HSK253\HSK253\bin\Debug\HSK253.pdb
+H:\fithou\HSK\HSK253\HSK253\obj\Debug\HSK253.exe
+H:\fithou\HSK\HSK253\HSK253\obj\Debug\HSK253.pdb
+H:\fithou\HSK\HSK253\HSK253\obj\Debug\HSK253.csproj.AssemblyReference.cache

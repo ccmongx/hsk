@@ -1,0 +1,8 @@
+H:\fithou\HSK\HSK82\HSK82\HSK82\bin\Debug\HSK82.exe.config
+H:\fithou\HSK\HSK82\HSK82\HSK82\bin\Debug\HSK82.exe
+H:\fithou\HSK\HSK82\HSK82\HSK82\bin\Debug\HSK82.pdb
+H:\fithou\HSK\HSK82\HSK82\HSK82\obj\Debug\HSK82.csproj.AssemblyReference.cache
+H:\fithou\HSK\HSK82\HSK82\HSK82\obj\Debug\HSK82.csproj.SuggestedBindingRedirects.cache
+H:\fithou\HSK\HSK82\HSK82\HSK82\obj\Debug\HSK82.csproj.CoreCompileInputs.cache
+H:\fithou\HSK\HSK82\HSK82\HSK82\obj\Debug\HSK82.exe
+H:\fithou\HSK\HSK82\HSK82\HSK82\obj\Debug\HSK82.pdb
